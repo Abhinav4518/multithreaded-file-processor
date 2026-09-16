@@ -1,0 +1,3 @@
+Multithreading allows multiple execution paths.
+Threads can execute tasks concurrently.
+Synchronization is required when threads share data.
